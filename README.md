@@ -23,6 +23,10 @@ In the `/workspaces/devcontainer-pyspark` directory, run this command:
 python3 sample/sample.py 
 ```
 
+### miscellany
+
+`configit.sh` looks like this:
+
 ```bash
 #!/bin/bash
 
