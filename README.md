@@ -15,6 +15,14 @@ Based on https://code.visualstudio.com/docs/devcontainers/containers
 
 `configit.sh` looks like this:
 
+## Run the Sample Code
+
+In the `/workspaces/devcontainer-pyspark` directory, run this command:
+
+```bash
+python3 sample/sample.py 
+```
+
 ```bash
 #!/bin/bash
 
