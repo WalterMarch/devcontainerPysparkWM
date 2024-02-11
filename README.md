@@ -13,8 +13,6 @@ I'm using the `base:ubuntu` image with a couple additions to `devcontainer.json`
 
 Based on https://code.visualstudio.com/docs/devcontainers/containers
 
-`configit.sh` looks like this:
-
 ## Run the Sample Code
 
 In the `/workspaces/devcontainer-pyspark` directory, run this command:
