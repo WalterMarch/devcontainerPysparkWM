@@ -1,4 +1,4 @@
-# devcontainer-pyspark - Visual Studio Code devcontainer for PySpark
+# devcontainerPysparkWM - Visual Studio Code devcontainer for PySpark
 
 ## Sample Dev Container file(s) for PySpark with Jupyter Notebook in VS Code Containerized Development
 
@@ -15,10 +15,10 @@ Based on https://code.visualstudio.com/docs/devcontainers/containers
 
 ## Run the Sample Code
 
-In the `/workspaces/devcontainer-pyspark` directory, run this command:
+In the `sample` directory, run this command:
 
 ```bash
-python3 sample/sample.py 
+python3 sample.py 
 ```
 
 ### miscellany
